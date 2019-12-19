@@ -1,0 +1,80 @@
+{
+    "name": "Songkick",
+    "description": "Songkick allows you to organize and track your favorite bands, get concert alerts, and buy tickets. Get instant tour dates from your music library.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/484-songkick.jpg",
+    "tags": [
+        "api united kingdom",
+        "bands",
+        "have api",
+        "marketplaces",
+        "music",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/songkick\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Songkick",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/484-songkick.jpg",
+            "humanURL": "http:\/\/www.songkick.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/songkick-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/songkick-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.songkick.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.songkick.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.songkick.com\/feed\/atom\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/songkick"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/songkick"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.songkick.com\/developer"
+        },
+        {
+            "type": "Email",
+            "url": "pr@songkick.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/songkick"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/songkick"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.songkick.com"
+        }
+    ]
+}
