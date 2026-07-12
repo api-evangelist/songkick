@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.songkick.com/developer/
 common:
+  - type: DomainSecurity
+    url: security/songkick-domain-security.yml
   - type: Website
     url: https://www.songkick.com/developer/
   - type: PublicAPIsListing
