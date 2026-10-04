@@ -39,7 +39,6 @@ apis:
   - name: Songkick
     description: "Music Events"
     humanURL: https://www.songkick.com/developer/
-    baseURL: https://www.songkick.com/developer/
     tags:
       - Music
     properties:
