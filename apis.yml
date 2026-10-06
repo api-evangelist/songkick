@@ -27,7 +27,7 @@ description: "Music Events"
 url: https://www.songkick.com/developer/
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Music"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://www.songkick.com/developer/
 common:
+  - url: https://www.songkick.com/news
+    type: Blog
   - type: DomainSecurity
     url: security/songkick-domain-security.yml
   - type: Website
